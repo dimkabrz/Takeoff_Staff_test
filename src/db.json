@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dmitry",
+      "login": "dimka_brz",
+      "password": "qweqweqwe"
+    },
+    {
+      "id": 2,
+      "name": "Viktor",
+      "login": "tsoy_zhiv",
+      "password": "zxczxczxczxc"
+    },
+    {
+      "id": 3,
+      "name": "Jack",
+      "login": "jack_black",
+      "password": "asdasdasd"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Анастасия",
+      "phone_number": "123123213111"
+    },
+    {
+      "id": 3,
+      "name": "Виталий",
+      "phone_number": "524856"
+    },
+    {
+      "name": "Дмитрий",
+      "phone_number": "89537131107",
+      "id": 5
+    },
+    {
+      "name": "Виктор",
+      "phone_number": "89005555555",
+      "id": 6
+    },
+    {
+      "name": "Дмитрий",
+      "phone_number": "89531124578",
+      "id": 7
+    },
+    {
+      "name": "Дмитрий",
+      "phone_number": "123123",
+      "id": 8
+    }
+  ]
+}

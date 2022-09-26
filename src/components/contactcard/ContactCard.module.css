@@ -1,0 +1,8 @@
+.contact_card {
+  width: 300px;
+  margin: 15px !important;
+}
+.redact_btn,
+.delete_btn {
+  margin: 5px;
+}

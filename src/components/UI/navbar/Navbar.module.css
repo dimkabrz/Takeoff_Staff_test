@@ -1,0 +1,9 @@
+.navbar {
+  height: 80px;
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #f8e9dd;
+}
+.myBtn {
+  margin: 25px;
+}
