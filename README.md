@@ -28,7 +28,7 @@ password: zxczxczxc
 login: jack_black,
 password: asdasdasd
 
-- проверить или добавить новых пользователей можно в `src/db.json`
+- проверить или добавить новых пользователей можно в `Takeoff_Staff_test/db.json`
 
 ## Для запуска проекта необходимо запустить json-server и только после этого запускать приложение
 
